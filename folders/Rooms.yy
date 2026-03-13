@@ -1,0 +1,14 @@
+{
+  "$GMFolder":"",
+  "%Name":"Rooms",
+  "children":[
+    {"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},
+  ],
+  "filterType":"GMRoom",
+  "folderName":"Rooms",
+  "isDefaultView":false,
+  "localisedFolderName":"ResourceTree_Rooms",
+  "name":"Rooms",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

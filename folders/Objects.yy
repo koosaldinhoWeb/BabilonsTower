@@ -1,0 +1,16 @@
+{
+  "$GMFolder":"",
+  "%Name":"Objects",
+  "children":[
+    {"name":"obj_player","path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_icon","path":"objects/obj_icon/obj_icon.yy",},
+    {"name":"obj_game","path":"objects/obj_game/obj_game.yy",},
+  ],
+  "filterType":"GMObject",
+  "folderName":"Objects",
+  "isDefaultView":false,
+  "localisedFolderName":"ResourceTree_Objects",
+  "name":"Objects",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}
